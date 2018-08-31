@@ -145,26 +145,26 @@ up arrow
 ==========
 10.  Name two flags that we used in this exercise.
 ----------
-
-
+ls/volume/
+ls D
 
 ==========
 11.  What key do I use to attempt to autocomplete a command or a file name?
 ----------
 
-
+<tag>
 
 ==========
 12.  What was the main command that we used throughout this exercise?
 ----------
-
+ls
 
 
 ==========
 13.  Name one argument that we passed to the command.
 ----------
 
-
+D
 
 ==========
 14.  Type:
@@ -183,7 +183,7 @@ foo: command not found
 
 Copy and paste the output below.
 ----------
-
+-bash: foo: command not found
 
 
 ==========
@@ -193,3 +193,9 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
+command: ls
+flag: -a
+argument: desktop
+prompt: $
+
+
