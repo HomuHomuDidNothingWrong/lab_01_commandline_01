@@ -17,7 +17,13 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
-
+Adlm			MPLABXProjects		Things
+Adobe			Movies			ipe.properties
+Applications		Music			isus
+Desktop			New Unity Project	pymel.log
+Documents		Pictures		xgen
+Downloads		Public
+Library			QLData
 
 
 ==========
@@ -27,20 +33,23 @@ $ ls D<TAB>
 
 What happens?  Describe it below.
 ----------
-
+Desktop, Documents, and Downloads appeared
 
 
 ==========
 2b. Press <TAB> one more time.  Copy and paste the output below.
 ----------
-
+ent-v314-017:~ student$ ls D
+Desktop/   Documents/ Downloads/ 
+ent-v314-017:~ student$ ls D
+Desktop/   Documents/ Downloads/
 
 
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
 ----------
 
-
+ls: D: No such file or directory
 
 ==========
 3.  Type:
@@ -49,6 +58,29 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
+Ableton
+Adobe
+Adobe Flash Builder 4.7
+Arduino
+Avid Projects
+Fritzing
+MATLAB
+MakeHuman
+Max 7
+MuseLog.txt
+NewBlue
+Pd
+Pro Tools
+Processing
+REAPER Media
+Smaart v8
+Temporary Work
+Test.ai
+Unreal Projects
+Untitled
+eagle
+iChats
+maya
 
 
 
@@ -59,7 +91,8 @@ $ ls -a Documents
 
 Copy and paste the first *two lines* of output below.
 ----------
-
+.			Fritzing		Smaart v8
+..			MATLAB			Temporary Work
 
 
 ==========
@@ -69,7 +102,7 @@ Copy and paste the first *two lines* of output below.
 
 What command was repeated?
 ----------
-
+ls -a Documents
 
 
 ==========
@@ -80,6 +113,7 @@ What command was repeated?
 What command was repeated?
 ----------
 
+ls -1 Documents
 
 
 ==========
@@ -89,7 +123,7 @@ $ ls /Vol<TAB><ENTER>
 
 What is the result of pressing tab?
 ----------
-
+/Vol became /Volumes/
 
 
 ==========
@@ -99,14 +133,14 @@ $ ls doesnotexist
 
 Copy and paste the output below.
 ----------
-
+ls: doesnotexist: No such file or directory
 
 
 ==========
 9.  What key do I press to go to the previous command?
 ----------
 
-
+up arrow
 
 ==========
 10.  Name two flags that we used in this exercise.
@@ -140,7 +174,7 @@ $ foo<ENTER>
 Copy and paste the output below.
 ----------
 
-
+foo: command not found
 
 ==========
 15.  Type:
