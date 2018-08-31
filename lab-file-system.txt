@@ -11,11 +11,11 @@ Follow the instructions line-by-line.
 ==========
 1. Open a new terminal window.
 ----------
-
+done
 ==========
 2. Create a directory called mtec1002.
 ----------
-
+done
 ==========
 3. Change your directory so that you're in mtec1002.
 ----------
@@ -32,7 +32,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 Copy and paste the output of pwd below.
 ----------
 
-
+/Users/student/mtec1002
 
 ==========
 5. Type:
